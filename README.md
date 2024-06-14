@@ -1,20 +1,22 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# Saharan Dust Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/dust-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/dust-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/dust-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/813731923.svg)](https://zenodo.org/badge/latestdoi/813731923)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook explores the relationship between Sharan dust aerosols (Bodèlè source) and meteorological variables using Self-Organizing Maps (SOM), Principal Component Analysis (PCA), and Random Forest Regression (RF).  
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Several meteorological and land surface factors have been found to impact Saharan dust emissions and transport. Dust mobilization occurs when surface wind speed of suitable magnitude is above a threshold velocity, often computed based on soil characteristics, vegetation, and solid particles. The purpose of this cookbook is to understand the relationship between dust and some meteorological variables using self-organizing maps ([SOM](ttps://medium.com/machine-learning-researcher/self-organizing-map-som-c296561e2117)), random forest regression ([RF](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)), and principal component analysis (PCA). The question we are really interested in with this cookbook is to know which variables are the most predictive of dust emissions. 
+
+For experimenting purpose, we consider PM10 concentration (PM10), 2m temperature (T2), 2m relative humidity (rh2), planetary boundary layer height (PBLH), 10m wind speed (wind_speed_10m), 925hPa wind speed (wind_speed_925hPa), horizontal wind at 10m (U10), meridional wind at 10m (V10), and convective rainfall (RAINC). This cookbook seeks to establish a clear relationship between the meteorological variables and dust (PM10).
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), [Altug Karakurt](@altugkarakurt) Acknowledge primary content authors here_
+[Jacob Tindan](@Jtindan), [Pooja Hari Ambrish](@Pha03), [Altug Karakurt](@altugkarakurt), [Ali Fallah](@alifallahm) Acknowledge primary content authors here_
 
 ### Contributors
 

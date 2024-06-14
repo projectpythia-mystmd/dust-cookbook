@@ -78,3 +78,5 @@ sphinx:
         - footer-logos
         - footer-info
         - footer-extra
+    bibtex_reference_style: author_year
+    bibtex_bibfiles: "ref.bib"
