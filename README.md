@@ -1,12 +1,12 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# Saharan Dust Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/dust-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/dust-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/dust-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/813731923.svg)](https://zenodo.org/badge/latestdoi/813731923)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook explores the relationship between Sharan dust aerosols (Bodèlè source) and meteorological variables using Self-Organizing Maps (SOM), Principal Component Analysis (PCA), and Random Forest Regression (RF).  
 
 ## Motivation
 
