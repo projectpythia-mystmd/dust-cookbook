@@ -5,3 +5,10 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - sklearn
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - minisom
+  - xarray
