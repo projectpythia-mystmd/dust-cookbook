@@ -14,7 +14,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), [Altug Karakurt](@altugkarakurt) Acknowledge primary content authors here_
+[Jacob Tindan](@Jtindan), [Pooja Hari Ambrish](@Pha03), [Altug Karakurt](@altugkarakurt), [Ali Fallah](@alifallahm) Acknowledge primary content authors here_
 
 ### Contributors
 
