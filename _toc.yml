@@ -8,9 +8,9 @@ parts:
     chapters:
       - file: notebooks/data_exploration
       - file: notebooks/PCA
- - caption: Self Organizing Maps
+  - caption: Self Organizing Maps
     chapters:
       - file: notebooks/SOM
- - caption: Random Forest
+  - caption: Random Forest
     chapters:
       - file: notebooks/random_forest
