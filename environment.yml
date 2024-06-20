@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: dust-cookbook-dev
 channels:
   - conda-forge
 dependencies:
