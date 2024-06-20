@@ -6,9 +6,9 @@ dependencies:
   - jupyterlab
   - sphinx-pythia-theme
   - scikit-learn
-  - numpy
-  - pandas
+  - numpy==1.26.4
+  - pandas==2.2.2
   - seaborn
-  - matplotlib
+  - matplotlib==3.8.4
   - minisom
   - xarray
