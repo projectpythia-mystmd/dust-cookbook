@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: dust-cookbook-dev
 channels:
   - conda-forge
 dependencies:
@@ -6,9 +6,9 @@ dependencies:
   - jupyterlab
   - sphinx-pythia-theme
   - scikit-learn
-  - numpy==1.26.4
-  - pandas==2.2.2
+  - numpy
+  - pandas
   - seaborn
-  - matplotlib==3.8.4
+  - matplotlib
   - minisom
   - xarray
