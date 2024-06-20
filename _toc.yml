@@ -4,6 +4,13 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Introduction
+  - caption: Data Exploration
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/data_exploration
+      - file: notebooks/PCA
+ - caption: Self Organizing Maps
+    chapters:
+      - file: notebooks/SOM
+ - caption: Random Forest
+    chapters:
+      - file: notebooks/random_forest
