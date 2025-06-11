@@ -1,0 +1,16 @@
+format: jb-book
+root: README
+parts:
+  - caption: Preamble
+    chapters:
+      - file: notebooks/how-to-cite
+  - caption: Data Exploration
+    chapters:
+      - file: notebooks/data_exploration
+      - file: notebooks/PCA
+  - caption: Self Organizing Maps
+    chapters:
+      - file: notebooks/SOM
+  - caption: Random Forest
+    chapters:
+      - file: notebooks/random_forest

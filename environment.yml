@@ -12,3 +12,4 @@ dependencies:
   - matplotlib
   - minisom
   - xarray
+  - mystmd
