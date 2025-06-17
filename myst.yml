@@ -1,6 +1,6 @@
 version: 1
 extends:
-  - https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia.yml
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: Saharan Dust Cookbook
   authors:
@@ -8,7 +8,7 @@ project:
     - name: Pooja Hari Ambrish
     - name: Altug Karakurt
     - name: Ali Fallah
-  github: https://github.com/projectpythia-mystmd/dust-cookbook
+  github: https://github.com/projectpythia/dust-cookbook
   copyright: '2024'
   toc:
     - file: README.md
@@ -27,7 +27,7 @@ project:
         - file: notebooks/random_forest.ipynb
   jupyter:
       binder:
-        repo: projectpythia-mystmd/dust-cookbook
+        repo: projectpythia/dust-cookbook
 site:
   options:
     logo: notebooks/images/logos/pythia_logo-white-rtext.svg
