@@ -1,6 +1,6 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
-
 # Saharan Dust Cookbook
+
+<img src="thumbnail.svg" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/dust-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/dust-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/dust-cookbook/main?labpath=notebooks)
