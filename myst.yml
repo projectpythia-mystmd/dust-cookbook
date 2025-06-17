@@ -1,0 +1,35 @@
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia.yml
+project:
+  title: Saharan Dust Cookbook
+  authors:
+    - name: Jacob Tindan
+    - name: Pooja Hari Ambrish
+    - name: Altug Karakurt
+    - name: Ali Fallah
+  github: https://github.com/projectpythia-mystmd/dust-cookbook
+  copyright: '2024'
+  toc:
+    - file: README.md
+    - title: Preamble
+      children:
+        - file: notebooks/how-to-cite.md
+    - title: Data Exploration
+      children:
+        - file: notebooks/data_exploration.ipynb
+        - file: notebooks/PCA.ipynb
+    - title: Self Organizing Maps
+      children:
+        - file: notebooks/SOM.ipynb
+    - title: Random Forest
+      children:
+        - file: notebooks/random_forest.ipynb
+  jupyter:
+      binder:
+        repo: projectpythia-mystmd/dust-cookbook
+site:
+  options:
+    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
+    folders: true
+  template: book-theme
